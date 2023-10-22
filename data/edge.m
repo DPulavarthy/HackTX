@@ -42,4 +42,4 @@ grid on;
 
 % Save the data to a CSV file
 data = [t' position'];
-csvwrite('dvt_out.csv', data);
+csvwrite('edge.csv', data);
